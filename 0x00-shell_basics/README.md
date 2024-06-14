@@ -7,4 +7,6 @@ This script displays current directory contents in Long format with user and gro
 This script creates a directory named my_first_directory in the /tmp/ directory.
 This script will move the file betty from /tmp/ to /tmp/my_first_directory.
 This script will delete the file betty is in /tmp/my_first_directory.
+This script will delete the directory my_first_directory that is in the /tmp directory.
+This script changes the working directory to the previous one.
 
