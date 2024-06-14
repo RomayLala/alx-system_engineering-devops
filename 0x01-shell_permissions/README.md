@@ -9,4 +9,5 @@ This script adds execute permission for the owner, the group owner and the other
 This script adds all permissions others but adds no permission to the user and group.
 This script sets the mode of the file hello to this: -rwxr-x-wx 1.
 This script sets the mode of the file hello the same as olleh’s mode.
-This script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files do not changed.
+This script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.Regular file should not be changed.
+This script creates a directory called my_dir with permissions 751 in the working directory.
