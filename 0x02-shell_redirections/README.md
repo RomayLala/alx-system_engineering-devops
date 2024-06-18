@@ -12,3 +12,4 @@ This script counts the number of directories and sub-directories in the current 
 This script displays the 10 newest files in the current directory showing one file per line sorted from the newest to the oldest.
 This script takes a list of words as input and prints only words that appear exactly once. Input and Output formats are one word on one line while words are sorted.
 This script displays lines containing the pattern 'root' from the file /etc/passwd.
+This script displays the number of lines that contain the pattern “bin” in the file /etc/passwd.
