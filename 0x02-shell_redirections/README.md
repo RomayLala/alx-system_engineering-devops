@@ -13,4 +13,4 @@ This script displays the 10 newest files in the current directory.One file per l
 This script takes a list of words as input and prints only words that appear exactly once.Input format: One line, one word, Output format: One line, one word and Words should be sorted.
 This script searches for lines containing the pattern "root" in the `/etc/passwd` file and displays them.
 This script displays the number of lines that contain the pattern “bin” in the file /etc/passwd.
-
+s script displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
