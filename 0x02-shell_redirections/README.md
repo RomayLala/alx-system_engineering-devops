@@ -10,3 +10,5 @@ This script duplicates the last line of the file `iacta`.
 This script deletes all regular files with a `.js` extension that are present in the current directory and all its subfolders.
 This script counts the number of directories and sub-directories in the current directory.It includes hidden directories but not current and parent directories.
 This script displays the 10 newest files in the current directory.One file per line and sorted from the newest to the oldest.
+This script takes a list of words as input and prints only words that appear exactly once.Input format: One line, one word, Output format: One line, one word and Words should be sorted.
+
