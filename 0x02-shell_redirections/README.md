@@ -17,3 +17,4 @@ s script displays lines containing the pattern “root” and 3 lines after them
 This script displays all lines from the file `/etc/passwd` that do not contain the pattern "bin".
 This script displays all lines of the file /etc/ssh/sshd_config starting with a letter which includes capital letters as well.
 This script replaces  all characters A and c from input to Z and e respectively.
+This script removes all occurrences of the letters 'c' and 'C' from its input.
