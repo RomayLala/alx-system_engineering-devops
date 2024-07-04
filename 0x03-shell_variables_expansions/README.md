@@ -5,3 +5,4 @@ This script counts the number of directories in the `PATH` environment variable 
 This script lists all the environment variables.
 This script lists all local variables and environment variables, and functions.
 This script creates a new local variable named `BEST` and assigns the value `"School"` to it.
+This shell script creates a new global variable named BEST with the value "School".
