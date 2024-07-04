@@ -4,3 +4,4 @@ This script adds the `/action` directory to the end of the PATH environment vari
 This script counts the number of directories in the `PATH` environment variable and prints the count.
 This script lists all the environment variables.
 This script lists all local variables and environment variables, and functions.
+This script creates a new local variable named `BEST` and assigns the value `"School"` to it.
