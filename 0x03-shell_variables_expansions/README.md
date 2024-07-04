@@ -7,3 +7,4 @@ This script lists all local variables and environment variables, and functions.
 This script creates a new local variable named `BEST` and assigns the value `"School"` to it.
 This shell script creates a new global variable named BEST with the value "School".
 This script performs an addition operation between the constant value `128` and the integer stored in the environment variable `TRUEKNOWLEDGE`. The result is then printed to the standard output.
+This script calculates the result of the environment variable POWER divided by DIVIDE, and outputs the result followed by a new line.
