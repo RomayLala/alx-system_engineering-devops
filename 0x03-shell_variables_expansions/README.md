@@ -9,3 +9,4 @@ This shell script creates a new global variable named BEST with the value "Schoo
 This script performs an addition operation between the constant value `128` and the integer stored in the environment variable `TRUEKNOWLEDGE`. The result is then printed to the standard output.
 This script calculates the result of the environment variable POWER divided by DIVIDE, and outputs the result followed by a new line.
 This script calculates the power of the value stored in the environment variable BREATH raised to the power of the value stored in the environment variable LOVE. It then outputs the result.
+This script converts a binary number stored in the environment variable `BINARY` to its decimal (base 10) equivalent.
