@@ -14,3 +14,4 @@ This Bash script, `12-combinations`, generates all possible combinations of two 
 This script prints a number stored in the environment variable `NUM` with two decimal places, followed by a new line.
 This script converts a number from base 10 to base 16.
 This script performs rot13 encryption and decryption on text input. Rot13 is a simple substitution cipher that replaces each letter with the letter 13 positions after it in the alphabet, wrapping around at the end.
+This script reads input from either a file or standard input (if no file is provided) and prints every other line, starting with the first line.
