@@ -11,3 +11,4 @@ This script calculates the result of the environment variable POWER divided by D
 This script calculates the power of the value stored in the environment variable BREATH raised to the power of the value stored in the environment variable LOVE. It then outputs the result.
 This script converts a binary number stored in the environment variable `BINARY` to its decimal (base 10) equivalent.
 This Bash script, `12-combinations`, generates all possible combinations of two letters from 'a' to 'z', excluding "oo". Each combination is printed on a new line and is alphabetically ordered starting from 'aa'.
+This script prints a number stored in the environment variable `NUM` with two decimal places, followed by a new line.
