@@ -13,3 +13,4 @@ This script converts a binary number stored in the environment variable `BINARY`
 This Bash script, `12-combinations`, generates all possible combinations of two letters from 'a' to 'z', excluding "oo". Each combination is printed on a new line and is alphabetically ordered starting from 'aa'.
 This script prints a number stored in the environment variable `NUM` with two decimal places, followed by a new line.
 This script converts a number from base 10 to base 16.
+This script performs rot13 encryption and decryption on text input. Rot13 is a simple substitution cipher that replaces each letter with the letter 13 positions after it in the alphabet, wrapping around at the end.
