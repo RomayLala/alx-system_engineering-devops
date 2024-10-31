@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# This script displays the names of files in the current directory after the first dash
+
+for file in *; do
+    # Check if the file is not a hidden file
+    if [[ $file != .* ]]; then
+        # Extract the part after the first dash
+        name_after_dash="${file#*-}"
+        # Only print if there was a dash in the filename
+        if [[ "$file" == *-* ]]; then
+            echo "$name_after_dash"
+        fi
+    fi
+done
