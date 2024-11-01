@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# This script displays lines containing the word "bash" to identify Bash processes and their PIDs.
+# shellcheck disable=SC2009
+
+ps -e -o user,pid,%cpu,%mem,vsz,rss,tty,stat,start,time,command | grep bash
