@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# This script displays all listening TCP and UDP sockets, along with their PID and program name.
+
+# Display only listening sockets with the process ID and program name, without sudo
+ss -tulnpx | awk 'NR==1 || /LISTEN/ {print}'

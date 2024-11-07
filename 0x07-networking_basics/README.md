@@ -3,4 +3,4 @@ This question answers What type of network a computer in local is connected to?,
 This question answers What is a MAC address? and What is an IP address?
 This question answers Which statement is correct for the TCP box?, Which statement is correct for the UDP box and Which statement is correct for the TCP worker?
 This bash script displays listening ports:That only shows listening sockets and That shows the PID and name of the program to which each socket belongs
-This bash script displays 
+This bash script pings an IP address passed as an argument. 
