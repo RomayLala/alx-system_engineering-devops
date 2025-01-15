@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+# This script sets up Apache in a Docker container to serve a page with "Hello ALX"
+
+# Update package list and install Apache
+apt-get update
+apt-get install -y apache2
+
+# Create the required webpage
+echo "Hello ALX" > /var/www/html/index.html
+
+# Start Apache service
+service apache2 start
