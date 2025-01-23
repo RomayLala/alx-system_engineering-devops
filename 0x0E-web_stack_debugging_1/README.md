@@ -1,0 +1,1 @@
+This project focuses on debugging and configuring a web stack, specifically addressing issues related to the Nginx server. The objective is to ensure that the Nginx server is properly configured to listen on port 80 and is running as expected.
